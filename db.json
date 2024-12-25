@@ -41,11 +41,6 @@
       "id": "4",
       "text": "Thanks for sharing!",
       "postId": "4"
-    },
-    {
-      "id": "5",
-      "text": "Awesome post!",
-      "postId": "5"
     }
   ],
   "todos": [
@@ -64,12 +59,40 @@
   ],
   "users": [
     {
-      "id": 1,
-      "name": "John"
+      "id": 2,
+      "name": "Sham"
     },
     {
       "id": 2,
-      "name": "Jane"
+      "name": "John"
+    },
+    {
+      "name": "Charlie",
+      "id": 3
+    },
+    {
+      "name": "Kim",
+      "id": 4
+    },
+    {
+      "name": "doe",
+      "id": 5
+    },
+    {
+      "name": "New User",
+      "id": 6
+    },
+    {
+      "name": "New User",
+      "id": 7
+    },
+    {
+      "name": "New User",
+      "id": 8
+    },
+    {
+      "name": "New User",
+      "id": 9
     }
   ]
 }
